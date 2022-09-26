@@ -22,12 +22,17 @@ To improve my skills as developer I have done some projects based on the courses
 - <a href="https://github.com/Judvel/Instagram-Clone">Instagram Clone</a>
 <br>
 <a href="https://judvel.github.io/Instagram-Clone/">Click here to deploy the web page</a>
-<img src="https://github.com/Judvel/Instagram-Clone/blob/main/img/homePageDesktop.png" style="width:300px; height:200px">
+<img src="https://github.com/Judvel/Instagram-Clone/blob/main/img/homePageDesktop.png" style="width:900px;">
 
 - <a href="https://github.com/Judvel/Hangman-Game">Hangman Game</a>
 <br>
 <a href="https://judvel.github.io/Hangman-Game/">Click here to deploy the web page</a>
-<img src="https://github.com/Judvel/Challenge-ONE-Juego-De-Ahorcado/blob/main/img/gamePage.png" style="width:300px; height:200px">
+<img src="https://github.com/Judvel/Hangman-Game/blob/main/img/gamePage.png" style="width:900px;">
+
+- <a href="https://github.com/Judvel/Hangman-Game">JuanDC's Twitter account profile clone</a>
+<br>
+<a href="https://judvel.github.io/JuanDC-Twitter-account-profile/">Click here to deploy the web page</a>
+<img src="https://github.com/Judvel/JuanDC-Twitter-account-profile/blob/main/img/Desktop-1980.png" style="width:900px;">
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Judvel&theme=dark&background=000000)](https://git.io/streak-stats)
