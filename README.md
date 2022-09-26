@@ -19,10 +19,14 @@ As I said before, I have knowledge in the following technologies:
 
 To improve my skills as developer I have done some projects based on the courses taken.
 
-- <a href="https://judvel.github.io/Instagram-Clone/">Instagram Clone</a>
+- <a href="https://github.com/Judvel/Instagram-Clone">Instagram Clone</a>
+<br>
+<a href="https://judvel.github.io/Instagram-Clone/">Click here to deploy the web page</a>
 <img src="https://github.com/Judvel/Instagram-Clone/blob/main/img/homePageDesktop.png" style="width:300px; height:200px">
 
-- <a href="https://judvel.github.io/Challenge-ONE-Juego-De-Ahorcado/">Hangman Game</a>
+- <a href="https://github.com/Judvel/Challenge-ONE-Juego-De-Ahorcado">Hangman Game</a>
+<br>
+<a href="https://judvel.github.io/Challenge-ONE-Juego-De-Ahorcado/">Click here to deploy the web page</a>
 <img src="https://github.com/Judvel/Challenge-ONE-Juego-De-Ahorcado/blob/main/img/gamePage.png" style="width:300px; height:200px">
 
 ### :fire: My Stats :
