@@ -34,6 +34,11 @@ To improve my skills as developer I have done some projects based on the courses
 <a href="https://judvel.github.io/JuanDC-Twitter-account-profile/">Click here to deploy the web page</a>
 <img src="https://github.com/Judvel/JuanDC-Twitter-account-profile/blob/main/img/Desktop-1980.png" style="width:900px;">
 
+- <a href="https://github.com/Judvel/HowManyDaysUntilChristmas">Countdown to Christmas</a>
+<br>
+<a href="https://judvel.github.io/HowManyDaysUntilChristmas/">Click here to deploy the web page</a>
+<img src="https://github.com/Judvel/HowManyDaysUntilChristmas/blob/main/images/merry-Chistmas-1920.png" style="width:900px;">
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Judvel&theme=dark&background=000000)](https://git.io/streak-stats)
 
