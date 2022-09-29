@@ -29,7 +29,7 @@ To improve my skills as developer I have done some projects based on the courses
 <a href="https://judvel.github.io/Hangman-Game/">Click here to deploy the web page</a>
 <img src="https://github.com/Judvel/Hangman-Game/blob/main/img/gamePage.png" style="width:900px;">
 
-- <a href="https://github.com/Judvel/Hangman-Game">JuanDC's Twitter account profile clone</a>
+- <a href="https://github.com/Judvel/JuanDC-Twitter-account-profile">JuanDC's Twitter account profile clone</a>
 <br>
 <a href="https://judvel.github.io/JuanDC-Twitter-account-profile/">Click here to deploy the web page</a>
 <img src="https://github.com/Judvel/JuanDC-Twitter-account-profile/blob/main/img/Desktop-1980.png" style="width:900px;">
